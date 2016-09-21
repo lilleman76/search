@@ -1,8 +1,8 @@
 <html lang="en">
 <head>
     <title>S&ouml;k Flickr</title>
-    <link rel="stylesheet" href="/scripts/test/search.css">
-    <script type="text/javascript" src="/scripts/test/search.js"></script>
+    <link rel="stylesheet" href="./css/search.css">
+    <script type="text/javascript" src="./scripts/search.js"></script>
 </head>
 
 <body>
