@@ -16,11 +16,11 @@
 <div class="div-class">
     S&ouml;k bild p&aring; Flickr: <input id="fname" type="text" size="20">
     <button id="search" onclick="search()" class="search">S&ouml;k</button>
-    <p id="error" class="error hidden">Ange ett attribut</p>
+    <p id="error" class="error hidden">Ange ett attribut!</p>
 </div>
 <div id="selectdiv" class="clearfix hidden div-class">
     <h1>V&aumlj bilder</h1>
-    <button class="send " data-counter="0" onclick="create()">Skapa nytt fotoalbum</button>
+    <button class="send " data-counter="0" onclick="create()">Skapa fotoalbum</button>
 </div>
 <div id="pictures">
 
