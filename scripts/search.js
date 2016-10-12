@@ -77,7 +77,7 @@ function search() {
             }
             else
             {
-                document.getElementById("pictures").innerHTML = "Inga bilder hittades!";
+                document.getElementById("pictures").innerHTML = "Inga bilder hittades";
             }
         });
     }
